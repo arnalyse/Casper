@@ -43,7 +43,7 @@
 
 /* Apply these base styles to all icons */
 .icon-ghost:before, 
-.icon-feed:before, {
+.icon-feed:before {
     font-family: 'icons';
     speak: none;
     font-style: normal;
