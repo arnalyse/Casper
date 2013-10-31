@@ -540,6 +540,7 @@ table.plain tbody > tr:nth-child(odd) > th {
 }
 
 /* The author credit area after the post */
+/*
 .post-footer {
     position: relative;
     margin: 4rem 0 0 0;
@@ -557,11 +558,14 @@ table.plain tbody > tr:nth-child(odd) > th {
     font-size: 1.4rem;
     line-height: 1.6em;
 }
+*/
 
 /* Create some space to the right for the share links */
+/*
 .post-footer .author {
     margin-right: 180px;
 }
+*/
 
 
 /* ==========================================================================
@@ -874,7 +878,7 @@ table.plain tbody > tr:nth-child(odd) > th {
     .post-meta {
         font-size: 1.3rem;
     }
-
+/*
     .post-footer {
         padding: 4rem 0;
         text-align: center;
@@ -885,7 +889,7 @@ table.plain tbody > tr:nth-child(odd) > th {
         padding: 0 0 1.6rem 0;
         border-bottom: #EBF2F6 1px dashed;
     }
-
+*/
     .older-posts,
     .newer-posts {
         position: static;
